@@ -1,0 +1,18 @@
+Chess piece artwork
+
+Artist: Cburnett (Colin M. L. Burnett)
+Artwork: SVG chess piece set
+Source: Lichess CDN mirror of the Cburnett set
+https://lichess.org/
+
+Original artwork and licensing information:
+https://commons.wikimedia.org/wiki/File:Chess_klt45.svg
+https://commons.wikimedia.org/wiki/File:Chess_plt45.svg
+
+License: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/
+
+The original SVG files retain their 45x45 viewBox. PNG versions are rasterized
+from those SVGs at 360x360 for crisp display on the chessboard. The artwork is
+provided under CC BY-SA 3.0; attribution and this license notice must be
+retained when the assets are redistributed.

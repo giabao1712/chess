@@ -1,0 +1,14 @@
+Navigation icons from Lucide
+https://lucide.dev/
+Source: https://github.com/lucide-icons/lucide
+
+Icons used:
+- gamepad-2
+- chart-no-axes-column-increasing
+- book-open
+- puzzle
+
+The original SVG files are included alongside PNG versions rasterized for the
+application. The icons are licensed under the ISC License; see LICENSE.txt.
+The Kỳ Đài navigation logo uses the Cburnett chess knight image. Its
+attribution and license are recorded in ..\pieces\cburnett\ATTRIBUTION.txt.

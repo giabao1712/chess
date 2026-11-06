@@ -1,0 +1,10 @@
+Offline chess opening catalogue
+
+Source: Lichess chess-openings
+https://github.com/lichess-org/chess-openings
+License: CC0 1.0 Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The TSV catalogue supplies opening names, ECO codes, and representative move
+sequences. It does not contain master-game win/draw statistics. Those are
+calculated locally from the PGN files in data/master_pgn.

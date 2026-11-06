@@ -1,0 +1,11 @@
+Stockfish chess engine
+
+Downloaded from the official Stockfish project release:
+https://github.com/official-stockfish/Stockfish/releases/latest
+
+The included engine is licensed under GNU GPL version 3 or later. See
+stockfish/Copying.txt and stockfish/AUTHORS for license and attribution.
+Corresponding source code:
+https://github.com/official-stockfish/Stockfish
+
+Stockfish is a third-party engine and is not part of the Kỳ Đài application.
